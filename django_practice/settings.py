@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_extensions',
     'making_queries',
+    'model_inheritance'
 ]
 
 MIDDLEWARE = [
