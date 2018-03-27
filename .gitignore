@@ -166,4 +166,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
+.idea/
+
 # End of https://www.gitignore.io/api/pydev,python,django,pycharm
